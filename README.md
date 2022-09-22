@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Djenniasi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sobre mim
+:star2:Meu nome é Djennifer e curso o Ensino Médio na TecPuc.
 
-<!---
-Djenniasi/Djenniasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔮Eu faço o curso técnico de Informática. <br>
+<hr>
+##💻 Softwares que eu conheço<br>
+ Windows<br>
+ Word<br>
+ Excel<br>
